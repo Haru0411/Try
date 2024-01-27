@@ -125,7 +125,7 @@ t.left(90)
 t.forward(100)
 t.end_fill()
 
-def write(AISHITERU,pos):
+def write(message,pos):
 
        x,y=pos
 
