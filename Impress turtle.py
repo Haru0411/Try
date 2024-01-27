@@ -137,8 +137,8 @@ def write(message,pos):
 
        style=("Stencil Std", 18, "italic")
 
-       t.write('AISHTERU', font=style)
+       t.write(message , font=style)
 
-write('PANDA',(-85,-145))
+write('PANDA🐼',(-85,-145))
 
 turtle.done()
